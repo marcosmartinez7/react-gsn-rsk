@@ -1,0 +1,10 @@
+{
+    "name": "truffle-project",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "@openeth/gsn": "^0.4.5"
+    }
+    
+  }
+  
